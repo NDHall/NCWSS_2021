@@ -3,7 +3,7 @@ A description of an approach to functional annotation employed by International 
 ([IWGC](https://www.weedgenomics.org/))
 
 ----------------
-![thumbnail]()
+![thumbnail](https://github.com/NDHall/NCWSS_2021/blob/main/media/NCWSS_poster.jpg)
 
 ## 1. Isoform Selection
 * Isoforms are selected using [AGAT](https://github.com/NBISweden/AGAT) which 
@@ -66,11 +66,7 @@ Given the number of Null values or missing values this format is ideal. The resu
 returns a result for each isoform. This is expected. Finally, GFF3 is produced that contains Ontology Terms, and
 Notes.
 
-
-
-
-
-![fullsize]()
+[fullsize](https://github.com/NDHall/NCWSS_2021/blob/main/media/NCWSS_poster_2021.pdf)
 
 
 

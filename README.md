@@ -18,7 +18,7 @@ selects the longest isoforms with longest intact open read frame.
   (ML2) is used predict protein location.
 within the cell. Briefly, ML2 uses a trained machine learning classifer
   to predict protein location. For more on this program see the excellent 
-  work by (Blum et al. 2009 )[https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-274]
+  work by [Blum et al. (2009)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-274)
 
 ## 3. InterPro Analysis
 * InterPro is run locally using iprscan5 version 5.47-82.0

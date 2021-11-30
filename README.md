@@ -23,7 +23,7 @@ within the cell. Briefly, ML2 uses a trained machine learning classifer
 ## 3. InterPro Analysis
 * InterPro is run locally using iprscan5 version 5.47-82.0
 * It uses several programs to predict InterPro Accessions which 
-can be broken down into the following categores 
+can be broken down into the following categories
     
     1. Sites
         * Conserved Site

@@ -69,7 +69,7 @@ Notes.
 
 ### Small Poster for Reference
 
-![thumbnail](https://github.com/NDHall/NCWSS_2021/blob/main/media/NCWSS_poster.jpg)
+![thumbnail](https://github.com/NDHall/NCWSS_2021/blob/main/media/NCWSS_poster.png)
 
 
 
